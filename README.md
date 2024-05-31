@@ -34,16 +34,6 @@ nltk.download('vader_lexicon')
 nltk.download('gutenberg')
 ```
 
-## Directory Structure
-
-Ensure your directory structure is as follows:
-
-```
-/content/drive/MyDrive/nlp_surya/dataset
-```
-
-Place all text files to be analyzed inside the `dataset` directory.
-
 ## Steps
 
 1. **List and Count Files**: Read the dataset directory and list all files. Verify the number of files.
